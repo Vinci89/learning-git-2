@@ -1,0 +1,22 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+    font-family: sans-serif;
+    .author {
+        margin-bottom: uppercase;
+        h1 {
+            text-transform: uppercase;
+	        letter-spacing: 1.5em;
+	        margin-bottom: 2em;
+	        color: #500787
+        }
+    }
+    .verses {
+        font-family: 'Gamja Flower', cursive;
+	    font-size: 2em;
+        text-align: justify;
+        .v2 {
+            color: red;
+        }
+    }
+}
