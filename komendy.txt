@@ -1,0 +1,2 @@
+autoprefixer-cli -o main.prefixed.css main.css   <<<<   ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css 
+cli --formatter <stylish> <index.html>  <<<<   ma wyœwietlaæ listê b³êdów we wszystkich plikach .html,
